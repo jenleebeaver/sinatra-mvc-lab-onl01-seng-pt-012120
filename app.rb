@@ -8,5 +8,5 @@ class App < Sinatra::Base
 
   POST '/piglatinize' do
   end
-  end
+  
 end
